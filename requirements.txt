@@ -1,0 +1,7 @@
+langchain-google-genai
+langchain-core
+langchain-community
+python-dotenv
+pypdf
+Pillow
+chainlit

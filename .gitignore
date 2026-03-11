@@ -1,0 +1,13 @@
+# 環境變數（含 API Key）
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Chainlit
+.chainlit/
+.files/
+
+# 對話紀錄
+chat_*.json
